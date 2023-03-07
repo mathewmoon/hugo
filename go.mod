@@ -53,16 +53,15 @@ require (
 	github.com/spf13/pflag v1.0.5
 	github.com/spf13/viper v1.6.1
 	github.com/tdewolff/minify/v2 v2.6.2
-	github.com/yuin/goldmark v1.1.31
+	github.com/yuin/goldmark v1.4.13
 	github.com/yuin/goldmark-highlighting v0.0.0-20200307114337-60d527fdb691
 	go.opencensus.io v0.22.0 // indirect
 	gocloud.dev v0.15.0
-	golang.org/x/image v0.0.0-20191214001246-9130b4cfad52
-	golang.org/x/net v0.0.0-20191209160850-c0dbc17a3553
+	golang.org/x/image v0.5.0
+	golang.org/x/net v0.0.0-20220722155237-a158d28d115b
 	golang.org/x/oauth2 v0.0.0-20190523182746-aaccbc9213b0 // indirect
-	golang.org/x/sync v0.0.0-20190911185100-cd5d95a43a6e
-	golang.org/x/text v0.3.2
-	golang.org/x/xerrors v0.0.0-20190717185122-a985d3407aa7 // indirect
+	golang.org/x/sync v0.0.0-20220722155255-886fb9371eb4
+	golang.org/x/text v0.7.0
 	google.golang.org/api v0.5.0
 	google.golang.org/appengine v1.6.0 // indirect
 	google.golang.org/genproto v0.0.0-20190522204451-c2c4e71fbf69 // indirect
